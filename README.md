@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm an **intermediate programmer** passionate abou
 
 ## 🌐 Connect With Me  
 - 📫 Email: rohitmalwal20@gmail.com
-- 💼 [Instagram](https://instagram.com/therohitmalwal)
-- 🐦 [Twitter](https://twitter.com/rohit_malwal)  
+- 💼 Instagram: [therohitmalwal](https://instagram.com/therohitmalwal)
+- 🐦 Twitter: [rohit_malwal_](https://twitter.com/@rohit_malwal_)  
 
 ---
 
