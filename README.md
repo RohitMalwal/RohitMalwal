@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **intermediate programmer** passionate abou
 ---
 
 ## 🌟 About Me  
-- 🔧 **Full Stack Development:** Skilled in both frontend and backend technologies.  
+- 🔧 **Full Stack Development:** Skilled in both frontend and backend technologies. Mainly focus on backend in AL/ML.
 - 📖 **Currently Learning:** Expanding my expertise in programming to master advanced concepts.  
 - 🌱 **Self-Taught Journey:** Continuously exploring new tools and frameworks to stay ahead.  
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an **intermediate programmer** passionate abou
 
 ## 🔨 Technologies & Tools  
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python    
+- **Backend:** Python
 - **Other Tools:** Git, VS Code
 
 ---
