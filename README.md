@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm an **intermediate programmer** passionate abou
 ---
 
 ## 🔨 Technologies & Tools  
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, C++
+- **Frontend:** HTML, CSS, JavaScript (basic)
+- **Backend:** Python, C++ (basic)
 - **Other Tools:** Git, VS Code
 
 ---
