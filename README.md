@@ -22,7 +22,8 @@ Welcome to my GitHub profile! I'm an **intermediate programmer** passionate abou
 ## 🛠️ Current Focus
 - Integrating AI/ML models into web applications for real-world use cases  
 - Experimenting with cutting-edge libraries and frameworks for machine learning and deep learning  
-- Practicing algorithmic problem-solving to enhance AI-driven solutions  
+- Practicing algorithmic problem-solving to enhance AI-driven solutions
+- Studying DSA
 
 ---
 
