@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Rohit Malwal!  
-### 🚀 Full Stack Developer | 💻 Self-Taught Programmer | 📚 Lifelong Learner  
+### 🚀 Back End Developer | 💻 Self-Taught Programmer | 📚 Lifelong Learner  
 
 Welcome to my GitHub profile! I'm an **intermediate programmer** passionate about creating impactful and innovative web applications.  
 
 ---
 
 ## 🌟 About Me  
-- 🔧 **Full Stack Development:** Skilled in both frontend and backend technologies. Mainly focus on backend in AI/ML.
+- 🔧 **Back End Development:** Skilled in both frontend and backend technologies. Mainly focus on backend in AI/ML.
 - 📖 **Currently Learning:** Expanding my expertise in programming to master advanced concepts.  
 - 🌱 **Self-Taught Journey:** Continuously exploring new tools and frameworks to stay ahead.  
 
